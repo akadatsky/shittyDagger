@@ -1,7 +1,6 @@
 package com.company.shittydagger
 
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
 import com.company.shittydagger.util.ApiManager
 import dagger.android.support.DaggerAppCompatActivity
 import timber.log.Timber
